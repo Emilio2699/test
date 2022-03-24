@@ -67,4 +67,4 @@ def create_data_model():
 def distance_callback(from_index, to_index):
     """Returns the distance between two nodes"""
     # Convert from routing variable Index to distance matrix NodeIndex
-    from_node =
+    from_node = j'aime manger des fraises
